@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "BoletimEstudantil",
+            "projectName": "anatomia-classe-java_d977b36e"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
